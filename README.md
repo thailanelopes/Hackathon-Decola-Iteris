@@ -34,3 +34,10 @@ A violência contra mulher já é um problema alarmante mesmo antes da pandemia;
 Vale lembrar que a violência não se limita à violência física, podendo ser sexual, psicológica, verbal e até patrimonial.
 Uma mulher é vítima de estupro a cada 8 minutos;
 Fonte : Um estupro a cada 8 minutos é registrado no Brasil; 
+
+
+
+# EXECUÇÃO E TELAS.
+
+<img src="/images/VSCODE.png" alt="My cool logo"/>
+
