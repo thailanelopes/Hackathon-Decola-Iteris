@@ -1,7 +1,7 @@
 # Hackathon-Decola-Iteris
 Este repositório contempla o projeto desenvolvido em grupo para o processo seletivo de estágio na empresa Iteris. Foi organizado um Hackathon para que os participantes desenvolvessem uma solução para os desafios apresentados.
 
-- O projeto foi desenvolvido utilizando Angular, HTML, CSS, JavaScript.
+- O projeto foi desenvolvido utilizando Angular, HTML, CSS, JavaScript e aplicando as práticas de versionamento de códigos utilizando o Git.
 
 ## Regras Gerais
 
