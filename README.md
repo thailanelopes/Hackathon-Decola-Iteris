@@ -5,11 +5,11 @@ Este repositório contempla o projeto desenvolvido em grupo para o processo sele
 
 ## Regras Gerais
 
- iniciar o projeto do zero ou do template que disponibilizaremos.
- Todo projeto deve ser hospedado no GitHub
- A primeira atividade será criar o repositório e compartilhar o link dentro da equipe.
- Quem criar deve dar permissão para as outras pessoas.
- Vocês terão 7 horas para implementar o projeto. Das 10h até as 17h.
+- iniciar o projeto do zero ou do template que disponibilizaremos.
+- Todo projeto deve ser hospedado no GitHub
+- A primeira atividade será criar o repositório e compartilhar o link dentro da equipe.
+- Quem criar deve dar permissão para as outras pessoas.
+- Vocês terão 7 horas para implementar o projeto. Das 10h até as 17h.
  
  
 ## Regras do Desafio
