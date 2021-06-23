@@ -39,5 +39,23 @@ Fonte : Um estupro a cada 8 minutos é registrado no Brasil;
 
 # EXECUÇÃO E TELAS.
 
+## Execução no VSCODE.
 <img src="/images/VSCODE.png" alt="My cool logo"/>
+
+
+
+## Menu da API.
+<img src="/images/menu.png" alt="My cool logo"/>
+
+
+## Página Principal.
+<img src="/images/home.png" alt="My cool logo"/>
+
+
+## Página de informações.
+<img src="/images/informacoes.png" alt="My cool logo"/>
+
+## Página de Contato.
+<img src="/images/contato.png" alt="My cool logo"/>
+
 
